@@ -1,0 +1,15 @@
+{
+  "name": "zeldagamesapi",
+  "version": "1.0.0",
+  "description": "An API about Zelda games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Carmona",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.0"
+  }
+}
