@@ -6,7 +6,7 @@ const zelda_games = [
         {
   id: "1st game",
   game: "The Legend of Zelda",
-  image: path.resolve(__dirname,'./Images/long-time-coming-finishing-the-original-legend-of-zelda-in-1st-game.jpg'),
+  image: 'https://www.flickr.com/photos/194670726@N04/51762031231/in/album-72177720295430060/lightbox/',
   platform:["Family Computer Disk System","Nintendo Entertainment System", "Game Boy Advance"],
   description: "The story of The Legend of Zelda is described in the instruction booklet and during the short prologue which plays after the title screen: A small kingdom in the land of Hyrule is engulfed by chaos when an army led by Ganon, the prince of darkness, invaded and stole the Triforce of Power, one part of a magical artifact which alone bestows great strength. In an attempt to prevent him from acquiring the Triforce of Wisdom, Princess Zelda splits it into eight fragments and hides them in secret underground dungeons. Before eventually being kidnapped by Ganon, she commands her nursemaid Impa to find someone courageous enough to save the kingdom. While wandering the land, the old woman is surrounded by Ganon's henchmen, when a young boy named Link appears and rescues her. Upon hearing Impa's plea, he resolves to save Zelda and sets out to reassemble the scattered fragments of the Triforce of Wisdom, with which Ganon can then be defeated.",
   release_date: "February 1986"
