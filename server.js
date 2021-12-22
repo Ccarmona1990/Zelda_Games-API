@@ -1,7 +1,7 @@
 // server.js
 const server = require('express')();
-const zelda_games = require('./data');
 const cors = require('cors');
+const fs = require('fs');
 const port = process.env.PORT || 5500;
 
 server.use(cors({
@@ -9,7 +9,10 @@ server.use(cors({
 }))
 
 server.get('/',(req,res)=>{
-    res.json(zelda_games)
+    const stream = fs.createReadStream('db.json', 'utf8');
+    stream.on('open',()=>{
+        stream.pipe(res)
+    })
 })
 
 server.listen(port)
