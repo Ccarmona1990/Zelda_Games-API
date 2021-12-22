@@ -58,8 +58,8 @@ const zelda_games = [
 },
 {
   id: "8th game",
-  game: "https://res.cloudinary.com/djsyhx1uk/image/upload/v1640137504/Zelda_Games/Oracle_of_ages_klkera.jpg",
-  image: "./Images/Oracle_of_ages.png",
+  game: "The Legend Of Zelda: Oracle of Ages",
+  image: "https://res.cloudinary.com/djsyhx1uk/image/upload/v1640137504/Zelda_Games/Oracle_of_ages_klkera.jpg",
   platform:["Game Boy Color"],
   description:"As with Seasons, the Triforce calls out to Link. Link is transported to a forest in the land of Labrynna, where he hears screaming. In a clearing, Link finds Impa, surrounded by monsters, but the monsters flee when they see Link. Impa then asks Link to help her find a singer in the forest. The two find Nayru, a young blue-haired woman singing on a tree stump surrounded by forest creatures. A shadow emerges from Impa and reveals itself as Veran, the Sorceress of Shadows. Veran possesses Nayru, the Oracle of Ages; this disrupts the flow of time. Link receives a sword from Impa and makes his way to the Maku Tree in Lynna City, the capital of Labrynna. Veran orders that the Maku Tree be killed; Link uses a time portal to travel to the past to prevent this. The Maku Tree tells Link he will need the eight Essences of Time to defeat Veran. Link sets out to retrieve the eight Essences, hidden in eight dungeons throughout Labrynna's past and present. ",
   release_date:"February 27, 2001"
